@@ -1,0 +1,44 @@
+*{
+    margin: 0px;
+    text-decoration: none;
+}
+
+.header{ 
+    background-color: rgb(114, 110, 110);
+    height: 80px;
+}
+
+.logo{
+    float:left;
+    height: 80px;
+}
+
+.album{
+    font-size: 35px;
+    margin-top: 10px;
+    float:right;
+}
+
+.titulo{
+    text-align: center;
+    font-size: 45px;
+    color: aquamarine;
+    background-image: url(darkSide.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.biografia{
+    background-color: gray;
+    height: 550px;
+    margin: 2rem auto;
+    text-align: center;
+    width: 300px;
+}
+
+.imagenFinal{
+    display: block;
+    margin-left: 230px;
+    margin-right: auto;
+}
+
